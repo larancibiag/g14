@@ -1,0 +1,96 @@
+/* BODY */
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.bg-verde {
+  background-color: #28a745;
+}
+
+/* MENU */
+
+.navbar {
+  font-weight: 300;
+}
+
+/* CARDS */
+
+h5 {
+  font-weight: 300;
+}
+
+p {
+  color: #707070;
+  font-weight: 300;
+  margin-bottom: 0px;
+  font-size: 13px;
+}
+
+p.card-text {
+  font-size: 16px;
+  font-weight: 300;
+}
+
+i {
+  fill: #707070;
+}
+
+.card-body {
+  padding: 10px;
+}
+
+hr {
+  margin: 0px;
+  margin-top: 10.5px;
+}
+
+.card-body a.card-link:first-child {
+  color: #707070;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.card-body a.card-link:nth-child(2) {
+  color: #28a745;
+  font-weight: 500;
+  font-size: 20px;
+  margin-right: 18px;
+  margin-left: 11px;
+  }
+
+.card {
+      margin-top: 1.5em;
+      margin-bottom: 2.5em;
+
+  }
+
+/* FORMULARIO */
+
+h3 {
+font-size: 21px;
+font-weight: 500;
+margin-top: 25px;
+margin-bottom: 15px;
+}
+
+.form-control {
+  font-weight: 300;
+  margin-bottom: 14px;
+}
+
+.btn {
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-bottom: 5px;
+}
+
+.pie {
+  color: #707070;
+  font-weight: 300;
+}
+
+p.pie {
+  font-size: 16px;
+  padding-bottom: 22px;
+}
